@@ -46,7 +46,7 @@ void loop()
   delay(100);
   //delay(15000);
   
-  int L1=digitalRead(4);
+  int L1=digitalRead(4); //L for LED
   int L2=digitalRead(5);
   int L3=digitalRead(6);
   int L4=digitalRead(7);
